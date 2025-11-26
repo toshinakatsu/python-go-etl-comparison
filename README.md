@@ -1,2 +1,2 @@
-# go-file-etl-pipeline
-Goを使ったファイルETL
+# データ処理 練習
+データ処理 練習
