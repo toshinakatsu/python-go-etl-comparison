@@ -1,2 +1,2 @@
-# Goを使ったETLの練習
-Goを使ったETLの練習
+# PythonとGoを使ったETLの比較練習
+PythonとGoを使ったETLの比較練習
